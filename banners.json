@@ -1,52 +1,54 @@
-[
-  {
-    "type": "SERIE",
-    "image": "https://cdn.ome.lt/sbmiOQX6FnHNW8Jyk7bg5w6s-Xg=/1200x630/smart/extras/conteudos/la-casa-de-papel-parte-5.jpg",
-    "id": "1077",
-    "name": "Lá Casa de Papel"
-  },
-  {
-    "type": "MOVIE",
-    "id": "2841",
-    "category_id": "3,10,21,5,9,11",
-    "image": "https://exame.com/wp-content/uploads/2021/05/Velozes-e-Furiosos-9.jpg",
-    "name": "Veloses e Furiosos 9"
-  },
-  {
-    "type": "LINK",
-    "image": "https://i.ibb.co/qgkqWcy/tuin-banner.png",
-    "link": "https://bit.ly/tuin-tv-1-0-baixar"
-  },
-  {
-    "type": "MOVIE",
-    "id": "2871",
-    "category_id": "3,10,7,13,11",
-    "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/novo-esquadrao-suicida-divulgacao.jpg",
-    "name": "O Esquadrão Suicida (2021)"
-  },
-  {
-    "type": "LINK",
-    "image": "https://animesenpai.com.br/wp-content/uploads/2020/04/TIKTOK.jpg",
-    "link": "https://bit.ly/movix-tik-tok-ref"
-  },
-  {
-    "type": "SERIE",
-    "image": "https://sm.ign.com/ign_br/screenshot/default/an-loki-disney_mpp5.jpg",
-    "id": "2645",
-    "name": "Loki"
-  },
-  {
-    "type": "MOVIE",
-    "image": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Viuva-Negra-cena-pos-creditos-1024x576.jpg",
-    "id": "2743",
-    "name": "Viúva Negra",
-    "category_id": "3,10,11"
-  },
-  {
-    "id": "2441",
-    "name": " Liga da Justià¸£à¸‡a ( Zack Snyder)",
-    "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/07/justiceleague_wb-1160x773-1.jpg",
-    "type": "MOVIE",
-    "category_id": "3,10,15,13,11"
-  }
-]
+{
+  "banners": [
+    {
+      "type": "SERIE",
+      "image": "https://cdn.ome.lt/sbmiOQX6FnHNW8Jyk7bg5w6s-Xg=/1200x630/smart/extras/conteudos/la-casa-de-papel-parte-5.jpg",
+      "id": "1077",
+      "name": "Lá Casa de Papel"
+    },
+    {
+      "type": "MOVIE",
+      "id": "2841",
+      "category_id": "3,10,21,5,9,11",
+      "image": "https://exame.com/wp-content/uploads/2021/05/Velozes-e-Furiosos-9.jpg",
+      "name": "Veloses e Furiosos 9"
+    },
+    {
+      "type": "LINK",
+      "image": "https://i.ibb.co/qgkqWcy/tuin-banner.png",
+      "link": "https://bit.ly/tuin-tv-1-0-baixar"
+    },
+    {
+      "type": "MOVIE",
+      "id": "2871",
+      "category_id": "3,10,7,13,11",
+      "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/novo-esquadrao-suicida-divulgacao.jpg",
+      "name": "O Esquadrão Suicida (2021)"
+    },
+    {
+      "type": "LINK",
+      "image": "https://animesenpai.com.br/wp-content/uploads/2020/04/TIKTOK.jpg",
+      "link": "https://bit.ly/movix-tik-tok-ref"
+    },
+    {
+      "type": "SERIE",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/an-loki-disney_mpp5.jpg",
+      "id": "2645",
+      "name": "Loki"
+    },
+    {
+      "type": "MOVIE",
+      "image": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Viuva-Negra-cena-pos-creditos-1024x576.jpg",
+      "id": "2743",
+      "name": "Viúva Negra",
+      "category_id": "3,10,11"
+    },
+    {
+      "id": "2441",
+      "name": " Liga da Justià¸£à¸‡a ( Zack Snyder)",
+      "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/07/justiceleague_wb-1160x773-1.jpg",
+      "type": "MOVIE",
+      "category_id": "3,10,15,13,11"
+    }
+  ]
+}
